@@ -1,6 +1,6 @@
 # Fortnite Feedback
 
-Collection of bugs and feedback for the Fortnite game by Epic Games.
+Collection of bugs and feedback for the `Survive the Storm` mode of the Fortnite game by Epic Games.
 
 ## About
 
