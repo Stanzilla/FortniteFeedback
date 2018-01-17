@@ -12,10 +12,10 @@ Band together online to build extravagant forts, find or build insane weapons an
 
 Wiki:
 
-* [Bugs](wiki/Bugs)
-* [Balance](wiki/Balance.md)
-* [Feature Requests](wiki/Feature-Requests)
-* [Invite System](wiki/Invite-System)
+* [Bugs](https://github.com/Stanzilla/FortniteFeedback/wiki/Bugs)
+* [Balance](https://github.com/Stanzilla/FortniteFeedback/wiki/Balance)
+* [Feature Requests](https://github.com/Stanzilla/FortniteFeedback/wiki/Feature-Requests)
+* [Invite System](https://github.com/Stanzilla/FortniteFeedback/wiki/Invite-System)
 
 Community Links:
 
