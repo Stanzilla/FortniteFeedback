@@ -12,10 +12,10 @@ Band together online to build extravagant forts, find or build insane weapons an
 
 Wiki:
 
-* [Bugs](Bugs.md)
-* [Balance](Balance.md)
-* [Feature Requests](Feature-Requests.md)
-* [Invite System](Invite-System.md)
+* [Bugs](wiki/Bugs)
+* [Balance](wiki/Balance.md)
+* [Feature Requests](wiki/Feature-Requests)
+* [Invite System](wiki/Invite-System)
 
 Community Links:
 
