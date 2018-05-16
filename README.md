@@ -16,6 +16,7 @@ Wiki:
 * [Balance](https://github.com/Stanzilla/FortniteFeedback/wiki/Balance)
 * [Feature Requests](https://github.com/Stanzilla/FortniteFeedback/wiki/Feature-Requests)
 * [Invite System](https://github.com/Stanzilla/FortniteFeedback/wiki/Invite-System)
+* [Upgrade System](https://github.com/Stanzilla/FortniteFeedback/wiki/Upgrades)
 
 Community Links:
 
@@ -26,5 +27,5 @@ Community Links:
 Official Links:
 
 * [Website](https://www.fortnite.com/)
-* [Patch notes](https://www.epicgames.com/fortnite/en-US/news/)
+* [Patch Notes](https://www.epicgames.com/fortnite/en-US/news/)
 * [Discord](https://discord.gg/nhdbr8d)
